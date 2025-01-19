@@ -1,0 +1,12 @@
+{
+  "name": "backend-vercel",
+  "version": "1.0.0",
+  "main": "api/chat.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.9"
+  }
+}
